@@ -17,7 +17,6 @@ h1 {
 
 input[type=text] {
     width: 480px;
-    /* max-width: 480px; */
     height: 64px;
     border: 0;
 }
