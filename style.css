@@ -3,8 +3,6 @@
     padding: 0;
 }
 body{
-    width: 100vw;
-    height: 100vh;
     font-family: 'EB Garamond', serif;
     color: #467745;
     background-color: #F7E4D4;
@@ -73,6 +71,9 @@ form > * {
     display: flex;
     flex-direction: column;
     align-items: center;
+    justify-content: center;
+
+    height: 100vh;
 }
 
 form {
