@@ -1,5 +1,5 @@
-function loadEvent() {
+// function loadEvent() {
     
-}
+// }
 
-window.addEventListener('load', loadEvent);
+// window.addEventListener('load', loadEvent);
